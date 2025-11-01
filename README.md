@@ -1,2 +1,2 @@
-# projeto-financeira
+# projeto-financeiro
 Dashboard de Projeção Financeira
